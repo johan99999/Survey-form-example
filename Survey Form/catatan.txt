@@ -1,0 +1,20 @@
+/Anda harus memiliki judul halaman dalam elemen h1 dengan id judul
+/Anda harus memiliki penjelasan singkat dalam elemen p dengan id deskripsi
+/Anda harus memiliki elemen formulir dengan id formulir survei
+/Di dalam elemen form, Anda diharuskan memasukkan nama Anda di kolom input yang memiliki id nama dan jenis teks
+/Di dalam elemen form, Anda diharuskan memasukkan email Anda di kolom input yang memiliki id email
+/Jika Anda memasukkan email yang formatnya tidak benar, Anda akan melihat kesalahan validasi HTML5
+/Di dalam formulir, Anda dapat memasukkan nomor di kolom input yang memiliki id nomor
+/Input angka tidak boleh menerima non-angka, baik dengan mencegah Anda mengetiknya atau dengan menampilkan kesalahan validasi HTML5 (tergantung pada browser Anda).
+/Jika Anda memasukkan angka di luar rentang input angka, yang ditentukan oleh atribut min dan max, Anda akan melihat kesalahan validasi HTML5
+/Untuk kolom masukan nama, email, dan nomor, Anda dapat melihat elemen label terkait di formulir, yang menjelaskan tujuan setiap kolom dengan id berikut: id="label-nama", id="label-email", dan id="label-nomor"
+/Untuk kolom input nama, email, dan nomor, Anda dapat melihat teks placeholder yang memberikan deskripsi atau instruksi untuk setiap kolom
+
+/Di dalam elemen formulir, Anda harus memiliki elemen dropdown pilih dengan id dropdown dan setidaknya dua opsi untuk dipilih
+/Di dalam elemen formulir, Anda dapat memilih opsi dari grup yang terdiri dari setidaknya dua tombol radio yang dikelompokkan menggunakan atribut nama
+/Di dalam elemen formulir, Anda dapat memilih beberapa bidang dari serangkaian kotak centang, yang masing-masing harus memiliki atribut nilai
+Di dalam elemen form, Anda disajikan dengan textarea untuk komentar tambahan
+Di dalam elemen formulir, Anda disajikan tombol dengan id kirim untuk mengirimkan semua masukan
+Penuhi cerita pengguna dan lewati semua tes di bawah ini untuk menyelesaikan proyek ini. Berikan gaya pribadi Anda. Selamat Mengkode!
+
+Catatan: Pastikan untuk menambahkan <link rel="stylesheet" href="styles.css"> di HTML Anda untuk menautkan stylesheet Anda dan menerapkan CSS Anda

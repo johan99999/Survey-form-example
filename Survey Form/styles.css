@@ -1,0 +1,47 @@
+html{
+    background-color: aqua;
+}
+
+h1, p{
+    text-align: center;
+   color: white;
+   background-color: black;
+}
+
+
+
+.form{
+    display: flex;
+    background-color: black;
+    color:white;
+    
+}
+
+.survey-form{
+    margin-left: 100%;
+    padding-left: 100px ;
+}
+
+#submit{
+    margin-left: 80px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+input::placeholder{
+    overflow:visible;
+     
+}
